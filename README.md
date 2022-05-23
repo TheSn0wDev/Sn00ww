@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Clément OZOE</h1>
+<h1 align="center">Hi there 👋, I'm Clément OZOR</h1>
 <h3 align="center">A student developer from France</h3>
 
 - 🔭 I’m currently working on [Atlantique RolePlay](https://atlantique-rp.fr/)
