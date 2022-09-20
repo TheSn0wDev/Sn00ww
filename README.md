@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **game development & networking**
 
-- 👨‍💻 All of my projects are available at [https://sn00ww.github.io/portfolio/](https://sn00ww.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://sn00ww.github.io/portfolio/](https://sn00ww.github.io/old-portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JS, LUA, C or C++**
 
