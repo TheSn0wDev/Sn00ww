@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Atlantique RolePlay](https://atlantique-rp.fr/) and [La 7ème Compagnie](https://github.com/7eCompagnie/)
 
-- 🌱 I’m currently learning **game development & networking**
+- 🌱 I’m currently learning **TypeScript, NextJS and NestJS**
 
-- 👨‍💻 All of my projects are available at [https://sn00ww.github.io/portfolio/](https://sn00ww.github.io/old-portfolio/)
+- 👨‍💻 All of my projects are available at [https://sn00ww.github.io/old-portfolio/](https://sn00ww.github.io/old-portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JS, LUA, C or C++**
 
