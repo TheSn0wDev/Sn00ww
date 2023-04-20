@@ -8,14 +8,14 @@ interface Sn0wData {
     status: 'student' | 'freelance' | 'employee'
     company: string
     location: string
-    internship: {
+    internship?: {
       company: string
       location: string
     }
   }
 }
 
-const aboutMe: Sn0wData = {
+const aboutMe: Required<Sn0wData> = {
   languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'PHP', 'SQL', 'C', 'C++'],
   tech: ['React', 'Next.js', 'Node.js', 'Express', 'MongoDB', 'MySQL', 'Git', 'Prisma', 'Ant Design', 'Chakra UI'],
   situation: {
